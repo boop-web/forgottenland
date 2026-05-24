@@ -11,7 +11,7 @@ const COST_GARRISON = 35;
 const MAP_W = 2000;
 const MAP_H = 2000;
 
-export default function KingshotGame() {
+export default function ForgottenlandGame() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const goldRef = useRef<HTMLSpanElement>(null);
   const waveRef = useRef<HTMLSpanElement>(null);
