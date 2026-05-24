@@ -31,6 +31,9 @@ dist-ssr
 *.sln
 *.sw?
 
+# Backups
+backups/
+
 # Secrets / tokens
 github acces code/
 secrets/
